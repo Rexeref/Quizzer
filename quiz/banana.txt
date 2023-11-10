@@ -1,0 +1,9 @@
+
+Ti piacciono i cani o i gatti?
+
+
+Cani\\\\true
+
+
+
+Gatti					\\\\				true

@@ -1,0 +1,11 @@
+.giusto {
+    background: darkgreen;
+}
+
+.mancato {
+    background: darkgoldenrod;
+}
+
+.sbagliato {
+    background: brown;
+}

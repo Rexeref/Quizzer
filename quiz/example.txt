@@ -1,0 +1,47 @@
+Domanda
+Risposta 1	\\\\ false
+Risposta 2	\\\\true
+Risposta 3	\\\\false
+Risposta 4	\\\\false
+
+
+Mi Piacciono i carciofi?
+Sì\\\\false
+
+No  \\\\true
+forse \\\\false
+Questa è una domanda?
+Sì				\\\\true
+No \\\\false
+
+
+
+
+
+Forse								\\\\false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Berlusca è muort?
+Sì					\\\\true
+No					\\\\false
+Forse \\\\false
+Speriamo\\\\true
+
+Come si chiama Cribbio di cognome?
+Minieo\\\\true
+Beaheh\\\\false
